@@ -8,6 +8,9 @@ import org.testng.annotations.Test;
 
 public class Testing {
 	
+	//checking for self purpose
+	//it should update this
+	
 	public WebDriver driver;
 	 @Test
 	  public void openMyBlog() {
