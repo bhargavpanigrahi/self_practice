@@ -20,6 +20,8 @@ public class ExcelUtils {
 
 	// This method is to set the File path and to open the Excel file, Pass Excel
 	// Path and Sheetname as Arguments to this method
+	
+	//how can i fetch multiple row and column data
 
 	public static void setExcelFile(String Path, String SheetName) throws Exception {
 
